@@ -10,7 +10,7 @@ package cesf.math;
 // Es poden calcular moltes coses amb nombres complexos
 // i accepten diverses operacions. Aquesta classe 
 // implementa les més destacables i necessàries.
-// HolaHOLA HOLA HOLA HOLA HOLA HOLA
+// HOLA HOLA HOLA HOLA HOLA
 public class Complex {
 	private final double re;  // part real
 	private final double im;  // part imaginària
